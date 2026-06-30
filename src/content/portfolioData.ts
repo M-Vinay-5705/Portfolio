@@ -51,7 +51,7 @@ export const timelineItems = [
     subtitle: "GIET University · B.Tech in CSE",
     description:
       "Currently pursuing Computer Science and Engineering while building depth in DSA, OOP, DBMS, networks, operating systems, and hands-on development.",
-    stat: "CGPA 8.77",
+    stat: "CGPA 8.64",
     icon: Code2,
   },
   {
@@ -198,8 +198,8 @@ export const experiences = [
     title: "Certified System Administrator (CSA) · ServiceNow",
     period: "2025 · Certification",
     description:
-      "Cleared the ServiceNow Certified Application Developer (CAD) certification, validating expertise in application development, data modeling, scripting, application UI, workflows, integrations, and ServiceNow development best practices.",
-    certificate: "/certificates/servicenow-cad.pdf",
+      "Cleared the ServiceNow CSA certification, validating platform fundamentals, application UI, data model, workflows, and core administration practices.",
+    certificate: "/certificates/servicenow-csa.pdf",
     certificateType: "pdf" as const,
   },
   {
@@ -207,7 +207,7 @@ export const experiences = [
     period: "2026 · Certification",
     description:
       "Cleared the ServiceNow CAD certification, validating platform fundamentals, application UI, data model, workflows, and core administration practices.",
-    certificate: "/certificates/servicenow-csa.pdf",
+    certificate: "/certificates/servicenow-cad.pdf",
     certificateType: "pdf" as const,
   },
   {
