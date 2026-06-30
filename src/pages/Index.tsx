@@ -199,7 +199,7 @@ const Index = () => {
                   </div>
                   <div className="rounded-2xl border border-border/70 bg-secondary/40 p-4">
                     <p className="text-xs uppercase tracking-[0.24em] text-muted-foreground">Academic Score</p>
-                    <p className="mt-2 text-lg font-semibold text-foreground">CGPA 8.77</p>
+                    <p className="mt-2 text-lg font-semibold text-foreground">CGPA 8.64</p>
                   </div>
                 </div>
               </div>
