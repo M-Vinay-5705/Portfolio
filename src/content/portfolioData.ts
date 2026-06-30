@@ -198,7 +198,15 @@ export const experiences = [
     title: "Certified System Administrator (CSA) · ServiceNow",
     period: "2025 · Certification",
     description:
-      "Cleared the ServiceNow CSA certification, validating platform fundamentals, application UI, data model, workflows, and core administration practices.",
+      "Cleared the ServiceNow Certified Application Developer (CAD) certification, validating expertise in application development, data modeling, scripting, application UI, workflows, integrations, and ServiceNow development best practices.",
+    certificate: "/certificates/servicenow-cad.pdf",
+    certificateType: "pdf" as const,
+  },
+  {
+    title: "Certified Application developer (CAD) · ServiceNow",
+    period: "2026 · Certification",
+    description:
+      "Cleared the ServiceNow CAD certification, validating platform fundamentals, application UI, data model, workflows, and core administration practices.",
     certificate: "/certificates/servicenow-csa.pdf",
     certificateType: "pdf" as const,
   },
