@@ -145,7 +145,7 @@ const Index = () => {
                   </div>
                   <div className="space-y-5">
                     <p className="eyebrow">Moningi Vinay Kumar</p>
-                    <h1 className="max-w-4xl text-balance text-5xl font-semibold leading-[0.95] sm:text-6xl lg:text-7xl">
+                    <h1 className="max-w-4xl text-balance break-words text-4xl font-semibold leading-tight sm:text-6xl sm:leading-[0.95] lg:text-7xl">
                       <span className="gradient-text">
                         <TypewriterName text="Moningi Vinay Kumar" />
                       </span>
