@@ -14,7 +14,7 @@ const TypewriterName = ({ text }: TypewriterNameProps) => {
   }, [index, text]);
 
   return (
-    <span className="inline-flex items-center">
+    <span className="inline-flex max-w-full flex-wrap items-center break-words">
       <span>{text.slice(0, index)}</span>
       <span aria-hidden="true" className="ml-1 inline-block h-[1em] w-px bg-primary align-middle animate-caret" />
     </span>
